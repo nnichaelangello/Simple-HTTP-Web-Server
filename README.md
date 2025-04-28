@@ -39,7 +39,7 @@ Simple-HTTP-Web-Server/
 1. Clone the repository:
    ```bash
    git clone https://github.com/nnichaelangello/Simple-HTTP-Web-Server.git
-   cd SimpleHTTPServer
+   cd Simple-HTTP-Web-Server
    ```
 2. Ensure Python 3.x is installed on your system:
    ```bash
